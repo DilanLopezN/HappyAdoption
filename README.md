@@ -16,7 +16,7 @@ Esta é uma API construída com Java 17+, documentada usando Swagger, utilizando
 1. Clone este repositório:
 
    ```bash
-   git clone git@github.com:DilanLopezN/NestJsMovieAPI.git
+   git clone git@github.com:DilanLopezN/HappyAdoption.git
    ```
 
 2. Navegue até o diretório do projeto:
